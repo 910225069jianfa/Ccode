@@ -6,7 +6,7 @@ void move(int, char, char, char);
 int main()
 {
     int n;
-    printf("请输入盘子的数量");
+    printf("请输入盘子的数量: \n");
     scanf("%d", &n);
     
     char a = 'A';
